@@ -4,7 +4,7 @@
 
 |  class number | title  | link  |
 |---|---|---|
-|  1 | Dart Installaion  |  [click here ](./Classes/class1.md) |
+|  1 | Github & Dart Installaion  |  [click here ](./Classes/class1.md) |
 | 2  |   |   |
 | 3  |   |   |
 | 4  |   |   |
