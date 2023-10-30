@@ -2,4 +2,11 @@ import 'package:dart_into_sdkcenter/dart_into_sdkcenter.dart' as dart_into_sdkce
 
 void main(List<String> arguments) {
   print('Hello world: ${dart_into_sdkcenter.calculate()}!');
+
+  int x = 5;
+print(x);
+
+
+
 }
+
