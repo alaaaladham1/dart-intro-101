@@ -1,10 +1,47 @@
-import 'package:dart_into_sdkcenter/dart_into_sdkcenter.dart' as dart_into_sdkcenter;
 
-void main(List<String> arguments) {
-  print('Hello world: ${dart_into_sdkcenter.calculate()}!');
+void main() {
 
-  int x = 5;
-print(x);
+
+// we will use the comment to explain the code in the program 
+// the comment will not be executed
+// to add hints to the code, we use comments 
+// syntax of dart, it is similar to c++ and java
+// data type in dart 
+// variables decleration
+// logical operations
+// if else statement
+// switch statement
+// loops
+// functions 
+// classes
+// objects
+// inheritance
+
+
+
+
+print("Hello Alaa");
+
+
+int x=1;
+double b=2.0;
+String name= "alaa";
+bool f = true;
+List menu = [1,2,3];
+
+
+
+dynamic d;
+d='alaa';
+d= 12345;
+print(d);
+
+
+
+
+int? num2;
+print('num2 is ${num2}'); 
+
 
 
 

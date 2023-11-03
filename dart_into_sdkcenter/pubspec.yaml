@@ -1,7 +1,7 @@
 name: dart_into_sdkcenter
 description: A sample command-line application.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/alaaaladham1/dart-intro-000.git
 
 environment:
   sdk: ^3.1.5
@@ -9,6 +9,7 @@ environment:
 # Add regular dependencies here.
 dependencies:
   # path: ^1.8.0
+  emojis: ^0.9.9
 
 dev_dependencies:
   lints: ^2.0.0
