@@ -38,10 +38,31 @@ print(d);
 
 
 
-
+var g = 55;
 int? num2;
 print('num2 is ${num2}'); 
 
+
+
+  String? names;
+  print (names);
+
+
+int a=6;
+int bc=3;
+int c=a~/bc;
+
+
+print(c);
+
+
+
+
+int? v;
+v??= 5;
+print(v is bool);
+
+print(g);
 
 
 
